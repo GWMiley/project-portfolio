@@ -1,0 +1,22 @@
+/*
+Garrett Miley
+
+Red - #FF4242
+Wasabi - #D4EE5E
+White - #F0F2EB
+
+*/
+<style>
+a {
+    color: #D4EE5E;
+}
+h1 {
+    color: #FF4242;
+}
+.color1 {
+width: 200px;
+height 200px;
+    background-color: #FF4242;
+}
+
+</style>

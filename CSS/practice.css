@@ -1,0 +1,28 @@
+//style stuff//
+<style>
+        header {
+            border-bottom-style: solid;
+            border-bottom-width: 2px;
+        }
+        
+    h1 {
+        font-size: 30px;
+        color: forestgreen;
+        font-family: cursive;
+    }
+    h2 {
+        font-size: 20 px;
+        color: lightcoral;
+        font-family: cursive;
+        text-align: center;
+    }
+    body {
+        font-family: arial;
+        font-size: 18px;
+        background-color: antiquewhite;
+        
+      
+        
+        
+        
+    </style>
